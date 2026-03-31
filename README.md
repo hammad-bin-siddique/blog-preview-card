@@ -22,8 +22,8 @@ This is my solution to the [Blog Preview Card challenge on Frontend Mentor](http
  
 ```
 blog-preview-card/
-├── assets/
-│   └── fonts/
+
+└── fonts/
 │       ├── Figtree-VariableFont_wght.ttf
 │       ├── Figtree-Italic-VariableFont_wght.ttf
 │       └── static/
