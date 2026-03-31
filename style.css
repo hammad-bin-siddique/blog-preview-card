@@ -67,6 +67,7 @@ body {
 }
 .blog-title{
     font-size:1.6em;
+    font-weight: 700;
 }
 .author{
     display:flex;
@@ -83,4 +84,14 @@ body {
 .author p{
     font-weight: 600;
     font-size:1em;
+}
+@media screen and (max-width:768px){
+    body{
+        padding:3em 2em 3em 1em;
+    }
+    .blog-card{
+        width: 100%;
+        max-width:768px;
+        align-items: flex-start;
+    }
 }
